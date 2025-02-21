@@ -20,11 +20,11 @@ For more information, visit https://foldxsuite.crg.eu/.
 │       │   └── rbd - Name of the directory.
 │       │       ├── individual_list_rbd_domain_00.txt - Mutation list file that is generated after running foldx_mutations.py.
 │       │       └── split_files - The mutation list file is split into several other files, for parallel computing.
-│       │           ├── individual_list_rbd_domain_00_00.txt
-│       │           ├── individual_list_rbd_domain_00_01.txt
-│       │           ├── individual_list_rbd_domain_00_02.txt
-│       │           ├── individual_list_rbd_domain_00_03.txt
-│       │           └── individual_list_rbd_domain_00_04.txt
+│       │           ├── individual_list_rbd_domain_00.txt
+│       │           ├── individual_list_rbd_domain_01.txt
+│       │           ├── individual_list_rbd_domain_02.txt
+│       │           ├── individual_list_rbd_domain_03.txt
+│       │           └── individual_list_rbd_domain_04.txt
 │       ├── HM - All the protein structures are stored here in .pdb format.
 │       │   └── rbd_domain.pdb
 │       └── MD - The analysis and the mutated protein is stored here.
